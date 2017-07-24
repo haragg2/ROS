@@ -1,0 +1,8 @@
+prefix=/home/hardik/catkin_ws/install
+
+Name: transform_ex
+Description: Description of transform_ex
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/hardik/catkin_ws/install/lib 
+Requires: roscpp visualization_msgs rospy std_msgs
